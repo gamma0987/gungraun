@@ -1,0 +1,8 @@
+[package]
+name = "gungraun"
+version = "0.0.0"
+edition = "2021"
+description = "Placeholder"
+license = "Apache-2.0 OR MIT"
+
+[dependencies]
